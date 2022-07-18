@@ -28,17 +28,8 @@ public class Week3Coding {
 	        int avg=sum/len;
 	        System.out.println(avg);
 	        
-//	    }
-//		
-//		if(flag==0)
-//        {   DecimalFormat df=new DecimalFormat("####.00");
-//            System.out.println("The average age is "+df.format(obj.calculateAverage(age)));
-//        }
-//    }
-//    else
-//    {
-//        System.out.println("Please enter a valid employee count");
-//    }
+		
+
 		
 	      //Programmatically subtract the value of the first element in the array from 
 			// the value in the last element of the array 
@@ -49,11 +40,8 @@ public class Week3Coding {
 		//Create an array of String called names that contains the following values.
 		String[] names = new String[] {"Sam","Tommy","Tim","Sally","Buck","Bob"};
 		
-//		System.out.println(age[7]);
-//		System.out.println(names[5]);
-		
-		
 
+		
 		
 		// Use a loop to iterate through the array and calculate the average number of letters per name. Print the result to the console.
 		int total=0;
